@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+scipy
+polars
+autogen-agentchat~=0.2
